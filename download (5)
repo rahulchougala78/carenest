@@ -1,0 +1,8 @@
+.git
+.npm-cache
+**/.npm-cache
+node_modules
+**/node_modules
+client/dist
+server/data/*.sqlite
+*.log
